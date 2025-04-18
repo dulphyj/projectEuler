@@ -2,9 +2,9 @@
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 X
-(src/main/java/org/example/Problem10.java,9/4/94ee8c2a866b008832e5bbdf401bb8e9d81221a1
+(src/main/java/org/example/Problem10.java,9\4\94ee8c2a866b008832e5bbdf401bb8e9d81221a1
 X
-(src/main/java/org/example/Problem20.java,b/3/b38e98bcf3b9148271b04de80797290676cf5b62
+(src/main/java/org/example/Problem20.java,b\3\b38e98bcf3b9148271b04de80797290676cf5b62
 X
 (src/main/java/org/example/Problem30.java,a/d/ad1526bab38e0b646365eceb2bffe850fdb0b93d
 X
@@ -12,11 +12,11 @@ X
 X
 (src/main/java/org/example/Problem22.java,c/5/c5caff34e6f34980185f31bff5c8add43d8d9d7c
 X
-(src/main/java/org/example/Problem23.java,e/4/e46ba0e39558e390679a60f68a61eaa9acfd87bc
+(src/main/java/org/example/Problem23.java,e\4\e46ba0e39558e390679a60f68a61eaa9acfd87bc
 X
 (src/main/java/org/example/Problem24.java,d/5/d5376449d624c86680de46a39e5c4424f0c3cfd3
 X
-(src/main/java/org/example/Problem02.java,6/3/6313a40e634bf56937ba1a79d0831f84236a9ff6
+(src/main/java/org/example/Problem02.java,6\3\6313a40e634bf56937ba1a79d0831f84236a9ff6
 X
 (src/main/java/org/example/Problem26.java,0/1/016937e6ec985ee4df9e66fbe4516b6eb516ac65
 X
@@ -30,4 +30,10 @@ X
 D
 files/0022_names.txt,5/4/543d3840b65870077fd6fe3b94e90905b4d2bad1
 9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+X
+(src/main/java/org/example/Problem31.java,9\e\9e73ff856c1eb0157727e4583501896062711cb6
+@
+projectEuler.iml,b\8\b8637f2944c8d655bf99f0449bef7da83f57ec3b
+X
+(src/main/java/org/example/Problem32.java,8\5\857f190478240c8015503e554682b7ddc41c308b
