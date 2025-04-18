@@ -37,3 +37,11 @@ X
 projectEuler.iml,b\8\b8637f2944c8d655bf99f0449bef7da83f57ec3b
 X
 (src/main/java/org/example/Problem32.java,8\5\857f190478240c8015503e554682b7ddc41c308b
+Å
+Q.idea/sonarlint/securityhotspotstore/8/5/857f190478240c8015503e554682b7ddc41c308b,b\b\bbb87c15652d2aa6e652dbe89a9cddd25140a624
+Å
+Q.idea/sonarlint/securityhotspotstore/b/8/b8637f2944c8d655bf99f0449bef7da83f57ec3b,3\7\37df215ebba051a5ee293a7e91b0071d7a07929a
+Å
+Q.idea/sonarlint/securityhotspotstore/9/e/9e73ff856c1eb0157727e4583501896062711cb6,4\f\4f516369e58c458ea9e0f25cac012c1d43e2d093
+w
+G.idea/sonarlint/issuestore/b/8/b8637f2944c8d655bf99f0449bef7da83f57ec3b,6\4\64e9663b87b79052609b6346e408daf9a851c4db
