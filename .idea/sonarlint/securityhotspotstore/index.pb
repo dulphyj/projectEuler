@@ -45,3 +45,7 @@ Q.idea/sonarlint/securityhotspotstore/b/8/b8637f2944c8d655bf99f0449bef7da83f57ec
 Q.idea/sonarlint/securityhotspotstore/9/e/9e73ff856c1eb0157727e4583501896062711cb6,4\f\4f516369e58c458ea9e0f25cac012c1d43e2d093
 w
 G.idea/sonarlint/issuestore/b/8/b8637f2944c8d655bf99f0449bef7da83f57ec3b,6\4\64e9663b87b79052609b6346e408daf9a851c4db
+X
+(src/main/java/org/example/Problem33.java,0\b\0b09fb9e396e55b90c811f4ba8ffe12fd302ba0b
+X
+(src/main/java/org/example/Problem34.java,6\6\669da7179340318d8fbe904244cc51434d1d7110
